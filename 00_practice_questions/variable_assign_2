@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+    int salary=35000;
+    printf("%d",salary);
+    return 0;
+}
